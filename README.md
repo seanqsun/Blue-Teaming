@@ -1,8 +1,8 @@
 # irsec-scripts
-OS Hardening
+__OS Hardening__
 
-__Windows__
+*Windows
 
 
 
-__Linux__
+*Linux
