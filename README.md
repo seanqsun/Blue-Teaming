@@ -8,7 +8,7 @@
   * 10.10.x.10
 - Windows Server Exchange/Mail
   * 10.10.x.20
-  * ###This takes forever to install, do this early on### > https://technet.microsoft.com/en-us/library/bb124778(v=exchg.160).aspx
+  * **This takes forever to install, do this early on** > https://technet.microsoft.com/en-us/library/bb124778(v=exchg.160).aspx
 - Ubuntu/Debian: SSH, MySQl, DNS
   * 10.10.x.30
 - Fedora 22: HTTP, FTP
