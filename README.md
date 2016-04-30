@@ -1,9 +1,8 @@
 # Checklist/Roles
 - Blue team tools (Thank you Jaime)
  * IDS/IPS
-   * https://sourceforge.net/projects/smoothsec/
-   * https://ossec.github.io/downloads.html
-   * windows only: http://ambuships.com/
+   * https://sourceforge.net/projects/smoothsec/ and https://ossec.github.io/downloads.html
+
  * nmap. scan yoself
    * cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
  * AntiVirus
