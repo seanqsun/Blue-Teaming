@@ -1,6 +1,6 @@
 # irsec checklist
-**Harden that fuuuucckkkk outta that Windows**  
-#### Access Control ####
+###Harden that fuuuucckkkk outta that Windows### 
+** Access Control **
 - Disable/remove non user accounts  
   * lusrmgr.msc
   * Disable default admin and guest accounts
@@ -16,8 +16,10 @@
 ### Network Security ###
 
 
-**
-**Internet of Things**
+
+###Internet of Things###
+**I don't really know, here's a link**
+- https://www.hackster.io/charifmahmoudi/iot-security-tips-to-protect-your-device-from-bad-hackers-768093
 
 **WAP**
 
