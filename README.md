@@ -33,6 +33,7 @@
 - Fedora 22: HTTP, FTP
   * 10.10.x.40
   * Inital Setup > https://www.digitalocean.com/community/tutorials/initial-setup-of-a-fedora-22-server
+  * HTTP> https://docs.fedoraproject.org/en-US/Fedora/22/html/System_Administrators_Guide/ch-Web_Servers.html
   * FTP > ProFTPD > http://linoxide.com/linux-how-to/configure-ftp-proftpd-fedora-22/
 - Incidence Response
  * See ir form
