@@ -5,9 +5,9 @@
    * https://ossec.github.io/downloads.html
    * windows only: http://ambuships.com/
  * nmap. scan yoself
-   *cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
+   * cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
  * AntiVirus
-   *avast: https://www.avast.com/en-us/index
+    * vast: https://www.avast.com/en-us/index
 
 - Make Windows so safe
   * 10.10.x.110
