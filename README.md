@@ -34,7 +34,8 @@
   * 10.10.x.40
   * Inital Setup > https://www.digitalocean.com/community/tutorials/initial-setup-of-a-fedora-22-server
   * HTTP> https://docs.fedoraproject.org/en-US/Fedora/22/html/System_Administrators_Guide/ch-Web_Servers.html
-  * FTP > vsftpd > https://www.liquidweb.com/kb/how-to-install-and-configure-vsftpd-on-fedora-22/
+  * FTP/ vsftpd: https://www.liquidweb.com/kb/how-to-install-and-configure-vsftpd-on-fedora-22/
+  * FTP.2: https://unix.stackexchange.com/questions/94603/limit-ftp-access-only-to-the-var-www-with-vsftpd
 - Incidence Response
  * See ir form
 - Misc
