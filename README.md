@@ -1,5 +1,5 @@
 # Checklist/Roles
--Chrooting: https://www.digitalocean.com/community/tutorials/how-to-configure-chroot-environments-for-testing-on-an-ubuntu-12-04-vps and https://help.ubuntu.com/community/BasicChroot
+- Chrooting: https://www.digitalocean.com/community/tutorials/how-to-configure-chroot-environments-for-testing-on-an-ubuntu-12-04-vps and https://help.ubuntu.com/community/BasicChroot
 - Blue team tools (Thank you Jaime)
  * IDS/IPS
  * https://sourceforge.net/projects/smoothsec/ and https://ossec.github.io/downloads.html
