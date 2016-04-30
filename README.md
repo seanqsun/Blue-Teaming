@@ -1,5 +1,5 @@
 # irsec checklist
-###Harden that fuuuucckkkk outta that Windows### 
+###Harden that fuuuucckkkk outta that Windows###
 ** Access Control **
 - Disable/remove non user accounts  
   * lusrmgr.msc
@@ -11,9 +11,9 @@
  * Local Group Policy Editor > Computer Configuration > Administrative Templates > Windows Components > Credential User Interface
  * Require trusted path for credential entry > Enable that shit
 
-### Application Security ###
-- 
-### Network Security ###
+** Application Security **
+
+** Network Security **
 
 
 
