@@ -1,4 +1,5 @@
 # Checklist/Roles
+-Chrooting: https://www.digitalocean.com/community/tutorials/how-to-configure-chroot-environments-for-testing-on-an-ubuntu-12-04-vps and https://help.ubuntu.com/community/BasicChroot
 - Blue team tools (Thank you Jaime)
  * IDS/IPS
  * https://sourceforge.net/projects/smoothsec/ and https://ossec.github.io/downloads.html
@@ -29,12 +30,11 @@
   * SSH.2: https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
   * MySQL: https://help.ubuntu.com/12.04/serverguide/mysql.html
   * DNS: https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-14-04
-
 - Fedora 22: HTTP, FTP
   * 10.10.x.40
   * Inital Setup > https://www.digitalocean.com/community/tutorials/initial-setup-of-a-fedora-22-server
   * HTTP> https://docs.fedoraproject.org/en-US/Fedora/22/html/System_Administrators_Guide/ch-Web_Servers.html
-  * FTP > ProFTPD > http://linoxide.com/linux-how-to/configure-ftp-proftpd-fedora-22/
+  * FTP > vsftpd > https://www.liquidweb.com/kb/how-to-install-and-configure-vsftpd-on-fedora-22/
 - Incidence Response
  * See ir form
 - Misc
