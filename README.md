@@ -25,10 +25,11 @@
 - Ubuntu/Debian: SSH, MySQl, DNS
   * 10.10.x.30
   * Secure the shit outta your ubuntu: http://blog.internot.info/2014/06/securing-ubuntu-desktop-from-bad-guys.html
-  * d
-  * d
+  * SSH: https://help.ubuntu.com/lts/serverguide/openssh-server.html
+  * SSH.2: https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
+  * MySQL: https://help.ubuntu.com/12.04/serverguide/mysql.html
   * DNS: https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-14-04
-  * 
+
 - Fedora 22: HTTP, FTP
   * 10.10.x.40
   * Inital Setup > https://www.digitalocean.com/community/tutorials/initial-setup-of-a-fedora-22-server
@@ -37,5 +38,5 @@
  * See ir form
 - Misc
  * Pls no rmrf: https://lambdaops.com/rm-rf-remains/
- * 
+
 
