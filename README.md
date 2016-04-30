@@ -11,9 +11,5 @@
  * Local Group Policy Editor > Computer Configuration > Administrative Templates > Windows Components > Credential User Interface
  * Require trusted path for credential entry > Enable that shit  
 
-2. Application Security 
-- Applocker
-- EMET
-
+2. Application Security
 3. Network Security
-- Firewalls
