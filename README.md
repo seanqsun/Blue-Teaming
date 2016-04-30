@@ -1,13 +1,11 @@
 # Checklist/Roles
 - Blue team tools (Thank you Jaime)
  * IDS/IPS
-   * https://sourceforge.net/projects/smoothsec/ and https://ossec.github.io/downloads.html
-
+ * https://sourceforge.net/projects/smoothsec/ and https://ossec.github.io/downloads.html
  * nmap. scan yoself
    * cheatsheet: https://highon.coffee/blog/nmap-cheat-sheet/
  * AntiVirus
     * vast: https://www.avast.com/en-us/index
-
 - Make Windows so safe
   * 10.10.x.110
   * See hardening.md
