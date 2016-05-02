@@ -28,7 +28,7 @@
 
 **Network Security**
 - Disable IPv6
-- Firewall
+- Firewall.... things... do firewall things
 
 **Moar Group Policy Editor**
 - Computer Configuration\Windows Settings\Security Settings\Account Policies\Password Policy\ 
