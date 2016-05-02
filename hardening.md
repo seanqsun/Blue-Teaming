@@ -96,9 +96,3 @@
 - Audit Policy: Logon-Logoff: Logoff= No auditing
 
 
-###Internet of Things###
-**I don't really know, here's a link**
-- https://www.hackster.io/charifmahmoudi/iot-security-tips-to-protect-your-device-from-bad-hackers-768093
-
-##WAP##
-
